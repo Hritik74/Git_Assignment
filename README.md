@@ -1,6 +1,6 @@
-## Hi this is Prad weds Sailee
+## Hi this is my assignment given by krish sir
 
-## Prad loves Sailee
+## this is data science program
 
 ## hi how are you
 ### hello this is my first commit
